@@ -1,0 +1,12 @@
+   body{ 
+   background-color: blue(252, 232, 208);
+   color:antiquewhite;    
+   font-family: "SUSE", sans-serif;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+
+
+
+}
